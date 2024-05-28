@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AimReticle">
+    <Position X="1" Y="0.5" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>CIQAAAAAAAAABAAAAgAQAAAAAAAIAAAACACAIAEAAAA=</HashCode>
+      <FileName>Assets\Samples\Cinemachine\2.8.9\Cinemachine Example Scenes\Scenes\AimingRig\AimReticle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,4 @@
+repository "FarmMaker@wechat_os_qy05lungb1n7swgkw74kxfiwa@cloud.cn"
+  path "/"
+    smartbranch "/main" 
+     

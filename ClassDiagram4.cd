@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Player" Collapsed="true">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ErcIgi4AYrZPkAFhAjdhAkF0QAggXFELACVIQBGNWFg=</HashCode>
+      <FileName>Assets\Scripts\Player\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Crop">
+    <Position X="7" Y="0.5" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQJAAEgAAAAAgAAAAFAAAAAAAAAhAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Crop\Crop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CropDetails">
+    <Position X="1" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>ghgQCACgCgAAACACBAAAAAAAACEAAAAEAAAIAAAElAE=</HashCode>
+      <FileName>Assets\Scripts\Crop\CropDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
